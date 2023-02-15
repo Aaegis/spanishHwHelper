@@ -1,5 +1,3 @@
-View the website: https://aaegis.github.io/spanishHwHelper/
-
 This is a project for friends and classmates to use in order to help them with their Spanish Schoolwork/homework. It is a website that generates
 the current spanish words (from class) in a random order to be copied and pasted into a text editor on their device, or other websites.
 
