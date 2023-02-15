@@ -1,10 +1,10 @@
-wordList = ["¿A qué hora es...?", "¿Qué hora es?", "A la(s)...", "Es la.../Son las...", "de la mañana",
-"de la tarde", "de la noche", "la hora", "el horario", "menos",
-"el minuto", "...y cuatro", "...y (diez)", "...y media", "de vez en cuando",
-"mucho", "nunca", "siempre", "todos los dias", "casi",
-"¿Cuántos(as)...?", "difícil", "en", "el examen (pl. los exámenes)", "fácil", "hay...", "mucho(as)", "tarde",
-"temprano", "tener que", "el arte", "las ciencias", "el español", "la historia", "el inglés", "las matemáticas",
-"contestar", "enseñar", "llegar", "neccesitar", "sacar una buena/mala nota", "tomar apuntes", "usar la computadora"];
+wordList = ["El problema", "¿Qué hora es?", "¿A dónde?", "Triste", "Tranquilo",
+"Ocupado", "Nervioso", "Enojado", "Emociando", "Deprimido",
+"Contento", "Cansado", "El pasillo", "Oficina del director", "El gimnasio",
+"La cafetería", "La biblioteca", "El baño", "Lejos de", "Encima de",
+"Detrás de", "Dentro de", "Delante de", "Debajo de", "Cerca de", "Al lado de", "interesante", "Divertido",
+"Aburrido", "La ventana", "La tiza", "La silla", "El reloj", "La puerta", "La pluma", "El pizarrón",
+"El papel", "La mochila", "El mapa", "El lápiz", "El escritorio", "El cuaderno", "la calculadora", "El borrador"];
 
 document.getElementById('randomizeButton').onclick = function() {
     var selectedValue = wordList.length, randomValue;
